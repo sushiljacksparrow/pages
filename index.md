@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Sushil Singh, Thinking loud</title>
+		Sushil Singh, Thinking loud
 	</head>
 	<body>
 		<nav>
